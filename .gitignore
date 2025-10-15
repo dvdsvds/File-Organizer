@@ -4,3 +4,5 @@ dist/
 test_files/
 __pycache__/
 *.spec
+etc.txt
+
